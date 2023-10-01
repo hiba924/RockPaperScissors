@@ -2,17 +2,27 @@
 
 Team Name: Alchemists 
 
+
 Team Member #1
+
 First Name: Ali 
+
 Last Name: Saheb 
+
 York Email Address: alisaheb@my.yorku.ca 
+
 Class: Section B, Lab 2
 
 Team Member #2 
+
 First Name: Hiba 
+
 Last Name: Halani 
+
 York Email Address: hiba924@my.yorku.ca 
+
 Class: Section A, Lab 1
+
 
 Rock, Paper, Scissors
 
